@@ -1,11 +1,3 @@
-/*
-*
-*
-*       Complete the API routing below
-*
-*my
-*/
-
 'use strict';
 
 const expect = require('chai').expect;
